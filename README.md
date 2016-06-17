@@ -79,6 +79,7 @@ Download this repository by
   git clone https://github.com/hrushikesh-dhumal/Coursera_Machine_Learning.git
 ``
 
+Download and install [Octave](https://www.gnu.org/software/octave/download.html)
 
 In each of the exercise folder there is a pdf file with problem description and it tells which file to execute.
 
