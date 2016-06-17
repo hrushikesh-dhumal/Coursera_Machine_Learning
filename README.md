@@ -73,15 +73,18 @@ Following are the topics covered-
 
 ## Installation
 
-Download this repository by 
+1. Download this repository by 
 
 ``
   git clone https://github.com/hrushikesh-dhumal/Coursera_Machine_Learning.git
 ``
 
-Download and install [Octave](https://www.gnu.org/software/octave/download.html)
+2. Download and install [Octave](https://www.gnu.org/software/octave/download.html)
 
-In each of the exercise folder there is a pdf file with problem description and it tells which file to execute.
+
+## Example 
+
+In each of the exercise folder there is a pdf file with problem description and it tells which file to execute. For Linear regression execute the [ex1](/mlclass-ex1-006/mlclass-ex1/ex1.m) from Octave.
 
 ## Contributors
 
