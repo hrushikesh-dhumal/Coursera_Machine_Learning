@@ -86,6 +86,11 @@ Following are the topics covered-
 
 In each of the exercise folder there is a pdf file with problem description and it tells which file to execute. For Linear regression execute the [ex1](/mlclass-ex1-006/mlclass-ex1/ex1.m) from Octave.
 
+## Stanford Honor Code
+
+"We strongly encourage students to form study groups, and discuss the lecture videos (including in-video questions). We also encourage you to get together with friends to watch the videos together as a group. However, the answers that you submit for the review questions should be your own work. For the programming exercises, you are welcome to discuss them with other students, discuss specific algorithms, properties of algorithms, etc.; we ask only that you not look at any source code written by a different student, nor show your solution code to other students."
+
+
 ## Contributors
 
 Hrushikesh Dhumal (hrushikesh.dhumal@gmail.com)
